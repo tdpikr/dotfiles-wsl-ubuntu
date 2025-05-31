@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Related to dotfiles
+!.gitignore
+!bootstrap.sh
+!README.md
+
+# Unignore specific files and directories
+!.tmux.conf
+!.zshrc
